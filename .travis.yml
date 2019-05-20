@@ -3,4 +3,4 @@ language:
 install:
   - npm install -g jest codecov
 script:
-  - codecov
+  - codecov --token=:token
