@@ -1,0 +1,6 @@
+{
+    "testRegex": "(/__tests__/.*|(\\.|/)(test|spec))\\.(jsx?|tsx?)$",
+    "moduleFileExtensions": ["js", "json"],
+    "coverageDirectory": "./coverage/",
+    "collectCoverage": true
+}
